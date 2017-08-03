@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.wso2.carbon.api.migration.encryption</groupId>
     <artifactId>org.wso2.apim.encryption.bundle</artifactId>
-    <packaging>jar</packaging>
+    <packaging>bundle</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>org.wso2.apim.encryption.bundle</name>
     <url>http://maven.apache.org</url>
@@ -42,7 +42,6 @@
             </releases>
         </repository>
     </repositories>
-<<<<<<< HEAD
 
     <build>
         <plugins>
@@ -72,8 +71,6 @@
     </build>
 
 
-=======
->>>>>>> ed2f8df23a7f4fb336eae52e2c62480f1ea0cd18
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
